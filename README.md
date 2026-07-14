@@ -93,7 +93,7 @@ were performed:
 The output screenshots included in the `images` folder provide visual
 evidence of the working webpage.
 
-## Technologies Used
+## Technologies Used in the task
 
 -   HTML5
 -   Visual Studio Code
