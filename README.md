@@ -69,7 +69,7 @@ portfolio website.
 
 ### Portfolio Home Page
 
-![Portfolio Home Page](images/portfolio-home.png)
+[![Portfolio Home Page](images/portfolio-home.png)](https://github.com/ShrutiRaj2909/personal-portfolio/blob/dd9492659500cd5b6e889679e45fab56bfb015dd/output1.png)
 
 ### Projects and Contact Section
 
