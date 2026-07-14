@@ -65,16 +65,6 @@ portfolio website.
     fields.
 -   The `footer` contains copyright information.
 
-## Visual Documentation
-
-### Portfolio Home Page
-
-[![Portfolio Home Page](images/portfolio-home.png)](https://github.com/ShrutiRaj2909/personal-portfolio/blob/dd9492659500cd5b6e889679e45fab56bfb015dd/output1.png)
-
-### Projects and Contact Section
-
-[![Projects and Contact Section](images/portfolio-contact.png)](https://github.com/ShrutiRaj2909/personal-portfolio/blob/84321169c71dd6b9d089dab5d38e46c5d907d4ce/output2.png)
-
 ## Technical Details
 
 The project uses HTML5 semantic elements to provide a clear and
