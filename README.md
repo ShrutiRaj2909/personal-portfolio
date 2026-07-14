@@ -73,7 +73,7 @@ portfolio website.
 
 ### Projects and Contact Section
 
-![Projects and Contact Section](images/portfolio-contact.png)
+[![Projects and Contact Section](images/portfolio-contact.png)](https://github.com/ShrutiRaj2909/personal-portfolio/blob/84321169c71dd6b9d089dab5d38e46c5d907d4ce/output2.png)
 
 ## Technical Details
 
